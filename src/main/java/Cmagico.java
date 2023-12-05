@@ -14,6 +14,7 @@ public class Cmagico {
             }
 
         }
+        return true;
     }
 
 }
